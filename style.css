@@ -17,8 +17,8 @@ div{
 .container .item{
     width: 12%;
 }
-.item div{
+.item img{
     border: 1px solid skyblue;
     border-radius: 10px;
-    width: 42%;
+    padding: 10px;
 }
