@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+*{
+    font-family:  "Quicksand", sans-serif;
+    
+}
+div{
+    padding: 2px;
+}
 .text{
-    display: inline-block
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    gap: 2px;
+}
+.text div{
+    width: 12%;
+}
+img{
+    border: 1px solid skyblue;
 }
