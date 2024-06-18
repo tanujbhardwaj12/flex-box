@@ -84,4 +84,6 @@ a{
     flex-wrap: wrap;
     justify-content: space-between;
 }
-
+.img{
+    height: 40px;;
+}
