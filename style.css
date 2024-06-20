@@ -149,12 +149,17 @@ div ul{
     padding: 0;
     
 }
-.logo{
-    display:flex;
-    margin: 10px;
+.logo {
+    display: flex;
+    
+
+
 
     
 }
 div ul+ul li a {
     margin: 20px;
+}
+.logo li+li{
+    margin-left: 10px;
 }
